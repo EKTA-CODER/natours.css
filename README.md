@@ -1,0 +1,2 @@
+# natours.css
+non-responsive
